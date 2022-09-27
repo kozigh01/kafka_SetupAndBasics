@@ -63,7 +63,7 @@ $ confluent local services --help
 # Start all services
 $ confluent local services start
 $ confluent local services status
-$ confluent local services stop
 
-# Start 
+# Stop all services
+$ confluent local services stop
 ```
